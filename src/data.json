@@ -1,0 +1,73 @@
+[{
+        "id": "0",
+        "name": "Infinix hot 10",
+        "price": "100000",
+        "model": "Infinix",
+        "sold": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXmtK0oHUVrnWSKhOVVGozqpEHoUkGOu75uQ&usqp=CAU"
+    },
+    {
+        "id": "1",
+        "name": "Tecno Povir 11",
+        "price": "200000",
+        "model": "Tecno",
+        "sold": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUnS5UoxKi6GurT5W11iQMlvqzRPjUy3zsFw&usqp=CAU"
+    },
+    {
+        "id": "2",
+        "name": "iphone 11 Pro max",
+        "price": "1000000",
+        "model": "iPhone",
+        "sold": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhD0_yMg7aEBaQW7B4mNp7YdRK1HXCS5d6tg&usqp=CAU"
+    },
+    {
+        "id": "3",
+        "name": "iphone 12",
+        "price": "2000000",
+        "model": "iPhone",
+        "sold": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThnFgnBUQHt41uCfsJqXvUDZ-exqRVyHY2yw&usqp=CAU"
+    },
+    {
+        "id": "4",
+        "name": "Samsung galaxy",
+        "price": "500000",
+        "model": "Samsung",
+        "sold": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5gKsAjC7EKx8mzmlg4O7PxJCLFtc-UJbwyQ&usqp=CAU"
+    },
+    {
+        "id": "5",
+        "name": "Samsung S10",
+        "price": "1500000",
+        "model": "Samsung",
+        "sold": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1oAp4vDUBFBYpAAGFHWuz4yUlG81z93Xgjg&usqp=CAU"
+    },
+    {
+        "id": "6",
+        "name": "Nokia 3310C",
+        "price": "500000",
+        "model": "Nokia",
+        "sold": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGHD1pW4aV_cIKK4Y_goh90tSa5ylF1Y9z-w&usqp=CAU"
+    },
+    {
+        "id": "7",
+        "name": "Gionee F13C",
+        "price": "200000",
+        "model": "Gionee",
+        "sold": true,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLaAXKhIfZgS-um6VwSqBeFdBcB5MxWKOPSw&usqp=CAU"
+    },
+    {
+        "id": "8",
+        "name": "Oppo A51",
+        "price": "100000",
+        "model": "Oppo",
+        "sold": false,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4adD007BakHbEc34lxegXpoqsAPcBsNYiQ&usqp=CAU"
+    }
+]
